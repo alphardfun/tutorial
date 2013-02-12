@@ -1,2 +1,1 @@
-初めてのGitHUB
-ちょっとドキドキ
+GitHUB is Grate
